@@ -8,6 +8,6 @@ I am a Systems & Game Developer focused on C++ architecture and workflow efficie
   - _Built with C++ & SFML 3.0.0_
   - _Playable builds available in [releases](https://github.com/artdoesstuff/Void.INC/releases)._
 
-- **[No Name](https://github.com/messyvoidstudios/No-Name)** 0.1.7
+- **[No Name](https://github.com/messyvoidstudios/No-Name)** 0.2.0
   - _A psychological/survival horror game set after the events of Void.TD_
-  - _Still in active development._
+  - _Development on indefinite hold at this current moment._
