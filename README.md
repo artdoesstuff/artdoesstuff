@@ -1,11 +1,15 @@
 ## Hello, I'm Scott (@artdoesstuff)
 
-I am a Systems & Game Developer focused on C++ architecture and workflow efficiency. When I'm not deep in thought listening to Kasane Teto, I'm building tools that cater to my workflow and games.
+I am a Systems & Game Developer, I love C++, I love Kasane Teto, and I love to build.
 
-### Current Projects
-- **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.1.2 _(Phase 2 begins.)_
+### Projects
+- **[Wauvio](https://github.com/artdoesstuff/Wauvio)** v1.3.2
+  - _An audio synthesis engine library header._
+  - _Built with C++17_
+
+- **[Void.INC](https://github.com/artdoesstuff/Void.INC)** v1.1.2
   - _An incremental game based in the Messy Void Universe, where it all began._
-  - _Built with C++ & SFML 3.0.0_
+  - _Built with C++17 & SFML 3.0.0_
   - _Playable builds available in [releases](https://github.com/artdoesstuff/Void.INC/releases)._
 
 - **[No Name](https://github.com/messyvoidstudios/No-Name)** 0.2.0
