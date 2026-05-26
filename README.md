@@ -6,6 +6,11 @@ I am a Systems & Game Developer, I love C++, I love Kasane Teto, and I love to b
 - **[No Name](https://github.com/messyvoidstudios/No-Name)** 0.2.0
   - _A psychological/survival horror game set after the events of Void.TD_
   - _Development on indefinite hold at this current moment._
+ 
+- **[Pandemonium](https://github.com/artdoesstuff/Pandemonium)** 0.2.0
+  - _A web-based audio visualiser with a reasonable amount of customisability._
+  - _This is my first web project; it uses HTML, CSS, and vanilla JS._
+  - _Hosted on [GitHub Pages](https://artdoesstuff.github.io/Pandemonium/)._
 
 - **[Void.INC](https://github.com/artdoesstuff/Void.INC)** 1.1.2
   - _An incremental game based in the Messy Void Universe, where it all began._
