@@ -17,6 +17,6 @@ I am a Systems & Game Developer, I love C++, I love Kasane Teto, and I love to b
   - _Built with C++17 & SFML 3.0.0_
   - _Playable builds available in [releases](https://github.com/artdoesstuff/Void.INC/releases)._
  
-- **[Wauvio](https://github.com/artdoesstuff/Wauvio)** 1.3.3
+- **[Wauvio](https://github.com/artdoesstuff/Wauvio)** 1.3.4
   - _An audio synthesis engine library header._
   - _Made for C++17 and newer_
