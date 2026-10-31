@@ -12,4 +12,5 @@ I generally make cool stuff once in a blue moon (if I feel like it too); code is
  
 - **[Wauvio-CPP](https://github.com/artdoesstuff/Wauvio-CPP)** 1.4.0
   - _An audio synthesis engine and music framework set of headers_
+  - _Made to produce sound/tracks programmatically_
   - _Made for C++17 and newer_
