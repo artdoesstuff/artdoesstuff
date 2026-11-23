@@ -10,7 +10,8 @@ I generally make cool stuff once in a blue moon (if I feel like it too); code is
   - _This is my first web project; it uses HTML, CSS, and vanilla JS_
   - _Hosted on [GitHub Pages](https://artdoesstuff.github.io/Pandemonium/)_
  
-- **[Wauvio-CPP](https://github.com/artdoesstuff/Wauvio-CPP)** 1.4.0
-  - _An audio synthesis engine and music framework set of headers_
-  - _Made to produce sound/tracks programmatically_
+- **[Wauvio-CPP](https://github.com/artdoesstuff/Wauvio-CPP)** 2.0.0
+  - _A music synthesis engine consisting of headers_
+  - _Made to produce music/tracks/songs programmatically_
+  - _Contains a vocal synthesiser_
   - _Made for C++17 and newer_
